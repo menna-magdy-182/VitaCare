@@ -1,0 +1,10 @@
+{
+  "mockData": [
+    {"firstname": "Ahmed", "lastname": "Mohamed", "active": true},
+    {"firstname": "Ahmed", "lastname": "Mohamed", "active": false},
+    {"firstname": "Ahmed", "lastname": "Mohamed", "active": true},
+    {"firstname": "Ahmed", "lastname": "Mohamed", "active": true},
+    {"firstname": "Ahmed", "lastname": "Mohamed", "active": false},
+    {"firstname": "Ahmed", "lastname": "Mohamed", "active": true}
+  ]
+}
